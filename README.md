@@ -7,14 +7,14 @@ This Python script helps you save videos from lost YouTube channels using a two-
 
 ## Features
 
-- 🔍 **Multi-source search**: Searches across 13+ archive sources including Wayback Machine, Archive.org, GhostArchive, and more
-- 📥 **Smart downloading**: Uses yt-dlp when available, falls back to direct downloads
-- 📁 **Organized storage**: Creates folders for each video with metadata
-- 🔄 **Complete pagination**: Automatically scrapes ALL Filmot pages (up to 50 pages)
-- 💾 **Data persistence**: Saves scraped data and supports resume functionality
-- 📊 **Two-phase processing**: Separates data collection from archive processing
-- 📝 **Detailed logging**: Comprehensive progress tracking and statistics
-- 🛡️ **Respectful scraping**: Includes delays and proper headers
+-  **Multi-source search**: Searches across 13+ archive sources including Wayback Machine, Archive.org, GhostArchive, and more
+-  **Smart downloading**: Uses yt-dlp when available, falls back to direct downloads
+-  **Organized storage**: Creates folders for each video with metadata
+-  **Complete pagination**: Automatically scrapes ALL Filmot pages (up to 50 pages)
+-  **Data persistence**: Saves scraped data and supports resume functionality
+-  **Two-phase processing**: Separates data collection from archive processing
+-  **Detailed logging**: Comprehensive progress tracking and statistics
+- 🛡 **Respectful scraping**: Includes delays and proper headers
 
 ## Installation
 
