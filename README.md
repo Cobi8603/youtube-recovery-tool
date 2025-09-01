@@ -14,7 +14,7 @@ This Python script helps you save videos from lost YouTube channels using a two-
 -  **Data persistence**: Saves scraped data and supports resume functionality
 -  **Two-phase processing**: Separates data collection from archive processing
 -  **Detailed logging**: Comprehensive progress tracking and statistics
-- 🛡 **Respectful scraping**: Includes delays and proper headers
+-  **Respectful scraping**: Includes delays and proper headers
 
 ## Installation
 
