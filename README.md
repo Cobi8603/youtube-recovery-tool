@@ -30,14 +30,14 @@ This Python script helps you save videos from lost YouTube channels using a two-
 
 ## How It Works
 
-### 📋 Phase 1: Complete Filmot Scraping
+###  Phase 1: Complete Filmot Scraping
 1. Scrapes the first page of the Filmot channel
 2. Automatically finds and follows pagination links
 3. Extracts video IDs and titles from ALL pages
 4. Saves complete video data to `filmot_videos.json`
 5. Provides detailed progress: "Page X: Found Y new videos"
 
-### 📥 Phase 2: Archive Processing
+###  Phase 2: Archive Processing
 1. Loads video data (from file or Phase 1)
 2. For each video, queries the findyoutubevideo.thetechrobo.ca API
 3. Searches across 13+ archive sources simultaneously
